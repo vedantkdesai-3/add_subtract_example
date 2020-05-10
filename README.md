@@ -15,6 +15,9 @@ mvn clean install
 mvn clean install spring-boot:run
 ```
 
+Then you can login to postman , USE the "user/password" as "admin/admin" for accessing the API
+
+
 # Running the tests
 
 1) To review the test results, open the below file in browser 
